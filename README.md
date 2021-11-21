@@ -42,7 +42,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [!Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kris-Zhang-122507&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kris-Zhang-122507&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>Top Languages Used</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris-Zhang-122507&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
