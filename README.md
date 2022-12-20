@@ -1,4 +1,4 @@
-### Hi there, I'm Kris - [blockdum website][website] 👋 
+### Hi there, I'm Kris - [Blockdum Website][Website] 👋 
 
 
 ## I'm a Developer, Programmer, and Student!!
@@ -6,7 +6,7 @@
 - 🔭 I just launched my first Project!: [Discord bot: TalkBot!][course]!
 - 🌱 I’m currently learning everything I don't know about programming
 - 👯 I’m looking to collaborate with other people
-- 🥅 2021 Goals: Finish Blockdum: [Blockdum website and game][website]
+- 🥅 2023 Goals: Finish Blockdum: [Blockdum website and game][website]
 - ⚡ Fun fact: I love to play the piano
 
 ### Connect with me:
@@ -54,7 +54,7 @@
 
 </details>
 
-[website]: https://kris-zhang-122507.github.io/Blockdum/index
+[Website]: https://kris-zhang-122507.github.io/Blockdum/index
 [course]: https://github.com/Kris-Zhang-122507/TalkBot-Beta
 [twitter]: https://twitter.com/kris81243167
 [youtube]: https://www.youtube.com/channel/UCGialu6FGMACzGCTV2-7RAw/videos
