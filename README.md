@@ -54,7 +54,7 @@
 
 </details>
 
-[Website]: https://kris-zhang-122507.github.io/Blockdum/index
+[Website]: https://blockdum.github.io/
 [course]: https://github.com/Kris-Zhang-122507/TalkBot-Beta
 [twitter]: https://twitter.com/kris81243167
 [youtube]: https://www.youtube.com/channel/UCGialu6FGMACzGCTV2-7RAw/videos
