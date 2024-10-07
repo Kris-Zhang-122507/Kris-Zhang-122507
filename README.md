@@ -6,7 +6,7 @@
 - 🔭 I just launched my first Project!: [Discord bot: TalkBot!][course]!
 - 🌱 I’m currently learning everything I don't know about programming
 - 👯 I’m looking to collaborate with other people
-- 🥅 2023 Goals: Finish Blockdum: [Blockdum website and game][website]
+- 🥅 2024 Goals: Finish Blockdum: [Blockdum website and game][website]
 - ⚡ Fun fact: I love to play the piano
 
 ### Connect with me:
